@@ -8,6 +8,7 @@ public class DemoController {
 
 	@RequestMapping("info")
 	public String info(){
+		string str="001";
 		return "HelloWorld001";
 	}
 }
