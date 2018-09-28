@@ -10,6 +10,6 @@ public class DemoController {
 	public String info(){
 		return "HelloWorld002";
 		//return "HelloWorld001";
-		
+		return "12345";
 	}
 }
